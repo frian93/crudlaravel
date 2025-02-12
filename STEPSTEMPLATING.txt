@@ -1,0 +1,13 @@
+templating 
+
+template -> HTML -> dist-> assets -> then copy the all folder 
+
+css, icon-fonts, images, js , libs, scss
+
+
+after brows the template and then find the empty page. 
+
+
+
+
+
