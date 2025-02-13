@@ -11,7 +11,7 @@ class Role extends Model
     protected $guarded = [];
 
 
-    public function Role()
+    public function Roles()
     {
         return $this->hasMany(UserManagement::class, 'role_id', 'id');   //if hasMany UserManagement = 'role_id' , Role = 'id'
 
